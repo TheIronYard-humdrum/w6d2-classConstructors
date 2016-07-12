@@ -1,6 +1,6 @@
 #### w6d2 - Class Constructors
 
-[Surge]()
+[Surge](http://tiy-humdrum-classpracticehw.surge.sh/)
 
 * Used *class syntax* to create constructors and prototypes.
 ```
